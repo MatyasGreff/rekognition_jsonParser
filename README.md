@@ -1,0 +1,2 @@
+# rekognition_jsonParser
+rekognition_jsonParser python library
